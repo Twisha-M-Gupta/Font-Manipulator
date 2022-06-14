@@ -1,0 +1,28 @@
+body {
+    background-image: url("background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+#d {
+    color: red;
+    margin-left: 500px;
+}
+
+h1,
+h2 {
+    margin-left: 500px;
+}
+
+h3 {
+    height: 5%;
+    width: 100%;
+    background-color: cadetblue;
+    bottom: 2;
+    position: fixed;
+}
+
+canvas {
+    border: 5px dotted white;
+}
